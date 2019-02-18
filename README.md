@@ -7,7 +7,7 @@ This is an API written in C# but it can be used in any .NET language. It's a for
 * FunXMPP Protocol - https://github.com/PerfectSolution1106/Chat-API-NET/wiki/WhatsApp-Protocol---FunXMPP
 
 ## Protocol
-More info in Chat API repo wiki https://github.com/mgp25/Chat-API
+More info in Chat API repo wiki https://github.com/PerfectSolution1106/chat-API
 
 **Special thanks to [shirioko](https://github.com/shirioko)**
 
